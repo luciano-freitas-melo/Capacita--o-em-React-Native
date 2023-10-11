@@ -6,8 +6,8 @@
 
 ### Atividade 2 - Text, Image e Button
 Entendendo como funciona as tags Text, Image e Button.
-Projeto: [Carteira Digital Fake - Cartorc](./cartorc/)
+Projeto: [Carteira Digital Fake - Cartorc](./Atividade2-cartorc/)
 
 ### Atividade 3 - Componentes
 Componentes React e passar variáveis via props.
-Projeto: [Sommelier de Comidas de Praia - Sommeliorc](./sommeliorc/)
+Projeto: [Sommelier de Comidas de Praia - Sommeliorc](./Atividade3-sommeliorc/)
